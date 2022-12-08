@@ -267,22 +267,3 @@ The way of Using SVG Sprites in HTML and Liquid.
 ## Recommended IDE
 
 [Visual Studio Code](https://code.visualstudio.com/)
-
-
-## Contributes
-
-Pull requests are always welcome.
-
-## Support
-I'll be trying to keep this starter kit as up-to-date as possible.
-I hope you buy me a coffee if this starter kit is helpful for you.
-
-<!-- BADGES/ -->
-<p>
-    <a href="https://buymeacoffee.com/ricebookspk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="130"></a>
-</p>
-<!-- /BADGES -->
-
-## License
-
-MIT
